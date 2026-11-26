@@ -4,9 +4,7 @@ Final-year Computer Science student at **Copperbelt University** (School of ICT)
 
 I'm open to **internships, junior developer roles and IT support roles**.
 
-I'm open to **internships, junior developer roles and IT support roles**.
-
-## What Has been built 
+## My Recent Group Project
 
 **ZedMove**
 Mobile transport booking and payment platform with GPS tracking.
