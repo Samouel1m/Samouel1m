@@ -11,7 +11,7 @@ I'm open to **internships, junior developer roles and IT support roles**.
 **ZedMove**
 Mobile transport booking and payment platform with GPS tracking.
 `React Native` `Expo` `Node.js` `Firebase Firestore` `Google Maps`
-👉 
+👉 https://github.com/Try-em/zed-move
 
 ## Skills
 
